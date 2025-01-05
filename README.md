@@ -36,7 +36,6 @@ Contains the sound add-on files for p5.js:
 ## Features
 1. **Bronze Project**:
    - Focuses on bronze-inspired visuals.
-   - Likely incorporates media assets like `rosie_bronze.png`.
 
 2. **Chess Project**:
    - Interactive or visual representation related to chess.
@@ -44,7 +43,7 @@ Contains the sound add-on files for p5.js:
 
 3. **Shape Project**:
    - Explores geometrical designs and interactions.
-   - Likely utilizes mathematical functions to generate dynamic shapes.
+   - utilizes mathematical functions to generate dynamic shapes.
 
 4. **Sound Integration**:
    - Utilizes the `p5.sound` library for audio processing.
@@ -79,4 +78,4 @@ Contains the sound add-on files for p5.js:
 
 ---
 
-Enjoy exploring the `p5_project`! Feel free to modify and expand it to create your own unique visual and auditory experiences.
+Feel free to modify and expand it to create your own unique visual and auditory experiences.
